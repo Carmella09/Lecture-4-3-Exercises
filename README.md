@@ -75,7 +75,7 @@ LECTURE 4 EXERCISES
       cout << "each more hideous than the last. " << endl;
       cout << "You probably should add some line breaks in the text too" << endl;
 
-        cin.get(); //keeps console window open in Visual Studio 
+        cin.get(); 
         return 0;
     }
   
@@ -93,7 +93,7 @@ LECTURE 4 EXERCISES
         int numberFour = 48;
         cout << numberThree - numberFour << " AED is your change" << endl;
 
-        cin.get(); //keeps console window open in Visual Studio
+        cin.get(); 
         return 0;
     }
     
@@ -109,6 +109,6 @@ LECTURE 4 EXERCISES
 
         cout << numberEight + numberTen << endl;
 
-        cin.get(); //keeps console window open in Visual Studio
+        cin.get(); 
         return 0;
     }
