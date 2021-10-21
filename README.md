@@ -81,9 +81,34 @@ LECTURE 4 EXERCISES
   
   USB Shopper 
   
+      #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int numberOne = 50;
+        int numberTwo = 6;
+        cout << "You can buy " << numberOne / numberTwo << " USB" << endl;
+
+        int numberThree = 50;
+        int numberFour = 48;
+        cout << numberThree - numberFour << " AED is your change" << endl;
+
+        cin.get(); //keeps console window open in Visual Studio
+        return 0;
+    }
+    
+    
   Declaration and Initialisation
   
-  
+      #include <iostream>
+    using namespace std;
+    int main()
+    {
+        int numberEight = 8;
+        int numberTen = 10;
 
+        cout << numberEight + numberTen << endl;
 
-  
+        cin.get(); //keeps console window open in Visual Studio
+        return 0;
+    }
