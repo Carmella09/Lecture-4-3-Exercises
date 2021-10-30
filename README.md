@@ -18,6 +18,7 @@ Permanent Address:
       cout << "Current Address: Land of Ooo" << endl;
       cout << "Permanent Address: Land of Ooo " << endl;
 
+      cin.get();
       return 0; 
     }
 
@@ -54,8 +55,7 @@ LECTURE 4 EXERCISES
       cout << numberOne / numberTwo << endl;
 
       cin.get(); 
-
-        return 0;
+      return 0;
     }
   
   Untidy Code
