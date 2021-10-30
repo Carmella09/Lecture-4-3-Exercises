@@ -3,9 +3,13 @@
 LECTURE 3 EXERCISE
 
 Create a Program that prints following details to the console 
+
 Name :
+
 Age :
+
 Current Address :  
+
 Permanent Address:
 
     #include <iostream>  
