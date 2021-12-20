@@ -1,4 +1,4 @@
-# Lec-4-3-Codes
+# Lec-4-3-EXERCISES
 
 LECTURE 3 EXERCISE
 
